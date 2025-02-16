@@ -1,0 +1,3 @@
+[submodule "AzusaTTS"]
+	path = AzusaTTS
+	url = https://huggingface.co/spaces/kdrkdrkdr/AzusaTTS
